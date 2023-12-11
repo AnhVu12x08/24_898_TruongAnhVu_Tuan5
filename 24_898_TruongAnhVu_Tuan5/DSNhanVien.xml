@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<danhsachnhanvien>
+
+  <nhanvien>
+    <loai>3</loai>
+    <maso>00</maso>
+    <hoten>Anh Vũ</hoten>
+    <ngaysinh>12</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <thamnien>34</thamnien>
+    <hesoluong>4</hesoluong>
+    <chucvu>Giám Đốc</chucvu>
+    <hesochucvu>4.3</hesochucvu>
+  </nhanvien>
+    
+  <nhanvien>
+    <loai>1</loai>
+    <maso>01</maso>
+    <hoten>Vũ Anh</hoten>
+    <ngaysinh>22</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <thamnien>394</thamnien>
+    <hesoluong>7.3</hesoluong>
+    <songaynghi>2</songaynghi>
+  </nhanvien>
+  
+  <nhanvien>
+    <loai>2</loai>
+    <maso>02</maso>
+    <hoten>Anh Đk</hoten>
+    <ngaysinh>12</ngaysinh>
+    <gioitinh>nam</gioitinh>
+    <thamnien>844</thamnien>
+    <hesoluong>4</hesoluong>
+    <doanhsotoithieu>783</doanhsotoithieu>
+    <doanhsotheothang>66</doanhsotheothang>
+  </nhanvien>
+  
+  <nhanvien>
+    <loai>2</loai>
+    <maso>03</maso>
+    <hoten>Ảnh Vụ</hoten>
+    <ngaysinh>02</ngaysinh>
+    <gioitinh>nam</gioitinh>
+    <thamnien>84</thamnien>
+    <hesoluong>4</hesoluong>
+    <doanhsotoithieu>382</doanhsotoithieu>
+    <doanhsotheothang>886</doanhsotheothang>
+  </nhanvien>
+  
+  <nhanvien>
+    <loai>1</loai>
+    <maso>04</maso>
+    <hoten>Vũ Ạnh</hoten>
+    <ngaysinh>18</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <thamnien>384</thamnien>
+    <hesoluong>4</hesoluong>
+    <songaynghi>2</songaynghi>
+  </nhanvien>
+  
+  <nhanvien>
+    <loai>2</loai>
+    <maso>05</maso>
+    <hoten>Ành Vủ</hoten>
+    <ngaysinh>16</ngaysinh>
+    <gioitinh>nam</gioitinh>
+    <thamnien>814</thamnien>
+    <hesoluong>4</hesoluong>
+    <doanhsotoithieu>783</doanhsotoithieu>
+    <doanhsotheothang>946</doanhsotheothang>
+  </nhanvien>
+	<nhanvien>
+		<loai>1</loai>
+		<maso>06</maso>
+		<hoten>Vụ Ảnh</hoten>
+		<ngaysinh>22</ngaysinh>
+		<gioitinh>Nam</gioitinh>
+		<thamnien>394</thamnien>
+		<hesoluong>99997.3</hesoluong>
+		<songaynghi>2</songaynghi>
+	</nhanvien>
+	
+</danhsachnhanvien>
